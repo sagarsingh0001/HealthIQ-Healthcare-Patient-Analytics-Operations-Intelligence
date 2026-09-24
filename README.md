@@ -1,5 +1,7 @@
 # HealthIQ — Healthcare Patient Analytics Dashboard
 
+## Live link: https://healthiq-healthcare-patient-analytics-operations-intelligence.streamlit.app/
+
 > **Educational and analytical project. Not a clinical decision-making system.**
 
 A portfolio-ready, end-to-end data analytics project built on a healthcare patient dataset covering 5,000 patient visits (January – July 2022). The project demonstrates the full data analyst workflow: data cleaning → SQL analysis → Python EDA → business insights → Power BI dashboard → Streamlit app → ML model.
@@ -19,6 +21,8 @@ This project simulates that analytical workflow using a structured patient datas
 ---
 
 ## Dataset
+
+### Kaggle Link: https://www.kaggle.com/datasets/abbas829/healthcare-patient-analytics-dataset
 
 | Column               | Description                                  | Type        |
 |--------------------|----------------------------------------------|-------------|
